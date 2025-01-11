@@ -1,3 +1,6 @@
+
+# UNDER CONSTRUCTION = WORKON ON THIS PROJECT
+
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/portfolio)
